@@ -16,13 +16,12 @@
 
 ## 🛠️ Tools
 - **Google Sheets** (data cleaning, calculation, dashboard design).  
-- **Dataset:** Global SuperStore (sourced from Kaggle).  
+- **Dataset:** SuperStore Sales From Tableau Community 
 - **Visualization:** Built entirely in Google Sheets (charts, KPI cards, layout).  
 
 ---
 
-## 📂 Project Structure
-- `SuperStore_Dashboard.xlsx` : Main Excel/Google Sheets dashboard.  
+## 📂 Project Structure 
 - `SuperStore_Dataset.csv` : Dataset used (downloaded from Kaggle).  
 - `README.md` : Documentation of objectives, methodology, and results.  
 
@@ -37,13 +36,10 @@
 ---
 
 ## 👤 Author
-- **Name:** [Your Name]  
-- **Portfolio Project** – Data Analyst Track  
+- **Name:** Kiet Truong   
 
 ---
 
 ## 🔗 Access
-- 📂 **Dataset:** [Kaggle – Global SuperStore Dataset](https://www.kaggle.com/)  
-- 📊 **Google Sheets Dashboard:** [Insert Link Here]  
-- 💻 **GitHub Repository:** [Insert Link Here]  
-# SuperStore-Dashboard
+- 📂 **Dataset:** https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+- 📊 **Google Sheets Dashboard:** https://docs.google.com/spreadsheets/d/1i6_KInlW9nT4XAmB_qeiTaU5gzkqpAAWsLWQYmKDfNc/edit?usp=sharing 
