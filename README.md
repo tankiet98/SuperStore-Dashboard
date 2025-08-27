@@ -24,15 +24,7 @@
 ## 🛠️ Tools
 - **Google Sheets** (data cleaning, calculation, dashboard design).  
 - **Dataset:** SuperStore Sample – sourced from Tableau Community.  
-- **Visualization:** Built entirely in Google Sheets (charts, KPI cards, layout).  
-
----
-
-## 📂 Project Structure
-- `SuperStore_Dashboard.xlsx` : Main Excel/Google Sheets dashboard.  
-- `SuperStore_Dataset.csv` : Dataset used (Tableau Community – SuperStore Sample).  
-- `Report_Insights.pdf` : PDF report presenting key insights and charts.  
-- `README.md` : Documentation of objectives and background.  
+- **Visualization:** Built entirely in Google Sheets (charts, KPI cards, layout).   
 
 ---
 
