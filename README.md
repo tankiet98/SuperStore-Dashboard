@@ -1,9 +1,9 @@
 # 📊 Sales Performance Dashboard (SuperStore)
 
-This project showcases a **Sales Performance Dashboard** built in Google Sheets using the SuperStore dataset (sourced from Tableau Community).  
-The dashboard provides a **single-page overview** of key sales metrics, trends, and breakdowns, along with a **forecasting model** (Linear Regression + Seasonal Index) to project future performance.  
-It is designed to help stakeholders quickly identify growth opportunities, seasonal patterns, and top revenue drivers.  
-This project is part of a **Data Analyst Portfolio** to demonstrate skills in data analysis, visualization, and storytelling.  
+- This project showcases a **Sales Performance Dashboard** built in Google Sheets using the SuperStore dataset (sourced from Tableau Community).  
+- The dashboard provides a **single-page overview** of key sales metrics, trends, and breakdowns, along with a **forecasting model** (Linear Regression + Seasonal Index) to project future performance.  
+- It is designed to help stakeholders quickly identify growth opportunities, seasonal patterns, and top revenue drivers.  
+- This project is part of a **Data Analyst Portfolio** to demonstrate skills in data analysis, visualization, and storytelling.  
 
 ---
 
