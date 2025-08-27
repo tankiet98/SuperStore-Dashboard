@@ -50,5 +50,5 @@
 ---
 
 ## 🔗 Access
-- 📂 **Dataset:** [Tableau Community – SuperStore Sample] (https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
-- 📊 **Google Sheets Dashboard:** [Insert Link Here] (https://docs.google.com/spreadsheets/d/1i6_KInlW9nT4XAmB_qeiTaU5gzkqpAAWsLWQYmKDfNc/edit?usp=sharing)
+- 📂 **Dataset:** [Tableau Community – SuperStore Sample] - https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+- 📊 **Google Sheets Dashboard:** https://docs.google.com/spreadsheets/d/1i6_KInlW9nT4XAmB_qeiTaU5gzkqpAAWsLWQYmKDfNc/edit?usp=sharing
