@@ -22,16 +22,15 @@
 ---
 
 ## 📂 Project Structure 
-- `SuperStore_Dataset.csv` : Dataset used (downloaded from Kaggle).  
-- `README.md` : Documentation of objectives, methodology, and results.  
+- `Report_Insights.pdf` : PDF report presenting key insights and charts.
+- `README.md` : Documentation of objectives and background.
 
 ---
 
 ## 📈 Results
-- Built an interactive **dashboard** summarizing key sales performance metrics.  
-- Applied **forecasting model (Linear Regression + Seasonal Index)** to project 2018 sales.  
-- Back-tested the model on 2017 data with an average gap of **-5.32%**, showing reliable accuracy.  
-- Generated actionable insights on **seasonality, top-performing categories, and customer segments** to support decision-making.  
+- Designed a Google Sheets dashboard with key sales KPIs and breakdowns.  
+- Integrated a simple forecasting model (Linear Regression + Seasonality) to project next-year sales.  
+- Delivered a clean, single-page view for business stakeholders.   
 
 ---
 
