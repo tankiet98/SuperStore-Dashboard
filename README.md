@@ -20,7 +20,7 @@ The dataset (Superstore Sales) covers **2014–2017**, providing a multi-year vi
 ---
 
 ## 🛠 Tools & Techniques  
-- **Microsoft Excel / Google Sheets**  
+- **Google Sheets**  
 - Pivot Tables, Charts, Conditional Formatting  
 - Cohort Analysis for retention tracking  
 - Forecasting model with Linear Regression + Seasonal Index  
@@ -76,11 +76,18 @@ The dataset (Superstore Sales) covers **2014–2017**, providing a multi-year vi
 ---
 
 ## 🔎 How to Access  
-- **Excel File**: `SuperStore_Sales.xlsx` (included in this repository)  
+- **Google Sheets Dashboard**: [View Here](https://docs.google.com/spreadsheets/d/1i6_KInlW9nT4XAmB_qeiTaU5gzkqpAAWsLWQYmKDfNc/edit?usp=sharing) 
 - **Detailed Analysis PDFs**:  
   - [Dashboard](SuperStore_Sales%20-%20Dashboard.pdf)  
   - [Insight](SuperStore_Sales%20-%20Insight.pdf)  
   - [Yearly Tracking](SuperStore_Sales%20-%20Yearly_Tracking.pdf)  
   - [Monthly Cohort Analysis](SuperStore_Sales%20-%20MonthlyCohort_Analysis.pdf)  
+
+---
+
+## 🏁 Conclusion  
+This project demonstrates how **Excel/Google Sheets** can be used not only for building dashboards but also for delivering **strategic business insights**.  
+By combining KPI tracking, profitability analysis, and customer retention studies, it highlights both **strengths (loyal customers, high-margin products)** and **risks (declining acquisition, sales concentration)**.  
+The approach shows how data analysis can directly support decision-making and improve business performance.  
 
 ---
