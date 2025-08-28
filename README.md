@@ -1,9 +1,21 @@
 # 📊 Superstore Sales Dashboard & Analysis
 
-## 📌 Project Overview  
-This project analyzes sales data from a retail superstore with the objective of identifying key business insights and enabling data-driven decision making. Using **Excel/Google Sheets**, the project includes a comprehensive dashboard, yearly tracking reports, and a cohort analysis to evaluate customer behavior and retention.  
+## 📝 About This Project  
+This project delivers a complete **business analysis of Superstore Sales (2014–2017)** using Excel/Google Sheets.  
+It combines a KPI dashboard, yearly tracking, and cohort analysis to uncover trends, profitability issues, and customer retention patterns.  
+The analysis highlights that while the company benefits from **strong customer loyalty**, it faces risks from **weak new customer acquisition** and **high revenue concentration** in a few states.  
 
-The dataset (Superstore Sales) covers the period **2014–2017**, providing a multi-year view of performance across categories, segments, regions, and customers.  
+---
+
+## 📌 Project Overview  
+This project analyzes sales data from a retail superstore with the objective of identifying key business insights and enabling data-driven decision making. Using **Excel/Google Sheets**, the project includes:  
+
+- A comprehensive **Dashboard** with KPIs and visualizations.  
+- A **Yearly Tracking** sheet to monitor Net Sales, MoM growth, and Profit Margin.  
+- A **Cohort Analysis** to evaluate retention and customer behavior.  
+- A full set of **Insights** with observations, interpretations, and recommendations.  
+
+The dataset (Superstore Sales) covers **2014–2017**, providing a multi-year view of performance across categories, segments, regions, and customers.  
 
 ---
 
@@ -11,6 +23,7 @@ The dataset (Superstore Sales) covers the period **2014–2017**, providing a mu
 - **Microsoft Excel / Google Sheets**  
 - Pivot Tables, Charts, Conditional Formatting  
 - Cohort Analysis for retention tracking  
+- Forecasting model with Linear Regression + Seasonal Index  
 - KPI dashboard design  
 
 ---
@@ -18,50 +31,56 @@ The dataset (Superstore Sales) covers the period **2014–2017**, providing a mu
 ## 🔑 Key Insights  
 
 ### 1️⃣ Net Sales & Profit (by Quarters)  
-- 📈 **Strong seasonality**: Q4 consistently peaks with the highest sales & profit, while Q1 slumps due to post-holiday effects.  
-- 💰 **Margins under pressure**: Profit margins average 10–13%, but dropped to just 9.6% in Q4-2017.  
-- ⭐ **2016 Q4 benchmark**: Delivered both the strongest sales growth (+153%) and highest margin (16.7%).  
+- 📈 Quarterly profit growth is **highly volatile**: from -58% (2017-Q1) to +153% (2016-Q4).  
+- 🎯 **Q4 consistently peaks** with the strongest sales & profit, while Q1 slumps due to post-holiday demand gap.  
+- ⚠️ **Margins under pressure**: fell to 9.6% in 2017-Q4 despite record sales.  
 
 ### 2️⃣ Sales & Margin by Category and Sub-category  
-- 🪑 **Furniture**: High sales but very low profitability (2.4%), with unprofitable items (Tables -8.8%, Bookcases -3.3%).  
-- 💻 **Technology**: Highest sales (763K) and healthy profitability (17.2%), driven by **Copiers (36.1%)** and **Accessories (25.3%)**.  
-- 📦 **Office Supplies**: Smaller sub-categories deliver exceptionally high margins (**Paper 43.2%**, **Labels 44.3%**, **Envelopes 42.1%**).  
+- 🪑 **Furniture**: high sales but very low profitability (2.4%). Tables (-8.8%) and Bookcases (-3.3%) drag performance.  
+- 💻 **Technology**: top sales (763K) and healthy margin (17.2%). Copiers (36.1%) and Accessories (25.3%) are standout drivers.  
+- 📦 **Office Supplies**: strong margins (17.2%) with small sub-categories as profit boosters (Paper 43.2%, Labels 44.3%).  
 
 ### 3️⃣ Regional & Segment Analysis  
-- 👥 **Consumer dominates** across all regions, especially East (323K) and West (301K).  
-- 🌍 **East region** is the strongest overall market, while **South lags behind**.  
-- 🏢 **Corporate & Home Office** provide stability but remain smaller contributors.  
+- 👥 **Consumer dominates** all regions, especially East (323K) and West (301K).  
+- 🌍 **East region** is the strongest and most balanced market.  
+- 🏢 Corporate & Home Office are smaller but provide stability.  
 
-### 4️⃣ State-level Sales Concentration (Pareto Analysis)  
-- 🥇 **Top 3 states (CA, NY, TX)** generate ~40% of total sales.  
-- 🏅 **Top 15 states** contribute ~75% of sales → strong revenue concentration.  
-- 🌐 The remaining 30+ states account for only 25% collectively.  
+### 4️⃣ State-level Concentration (Pareto Analysis)  
+- 🥇 Top 3 states (CA, NY, TX) = ~40% of sales.  
+- 🏅 Top 15 states = ~75% of sales.  
+- ⚠️ High dependency on a few states → concentration risk.  
 
 ### 5️⃣ Yearly Tracking (2014–2017)  
-- 📊 Revenue grew consistently year over year, but margins fluctuated.  
-- 🎯 Seasonal peaks are clearly visible in Q4 across all years.  
-- ⚠️ Profit margin volatility suggests heavy discounting or cost structure issues in certain months.  
+- 📊 Revenue grows year-over-year, but margins fluctuate.  
+- 🎯 Seasonal peaks in Q4 every year.  
+- ⚠️ Margin volatility suggests heavy discounting or weak product mix.  
 
 ### 6️⃣ Cohort & Retention Analysis  
-- 🔄 **Retention is the key driver**: many customers from early cohorts (2014–2015) continued to purchase in later years.  
-- 🆕 **Customer acquisition is weak**: New customers dropped from 595 in 2014 → only 11 in 2017.  
-- 📉 Growth heavily depends on **repeat customers**, highlighting loyalty strength but also risk from lack of new inflows.  
+- 🔄 Growth is **retention-driven**: older cohorts (2014–2015) keep repurchasing years later.  
+- 🆕 New customers fell sharply (595 in 2014 → 11 in 2017).  
+- 📉 Reliance on repeat customers shows loyalty strength but weak acquisition funnel.  
 
 ---
 
 ## 📈 Results  
-- ✅ The business shows **solid repeat purchase behavior**, with strong loyalty among existing customers.  
-- ⚠️ However, **customer acquisition sharply declined** after 2014, limiting long-term growth potential.  
-- 💡 Profitability varies widely by product and category, indicating opportunities to **optimize pricing and product mix**.  
-- 🌍 Regional concentration is high, with a few states and customer segments driving most of the revenue.  
-- 📌 Overall, the dashboard and analyses provide actionable insights for:  
+- ✅ The business relies heavily on **loyal, repeat customers**, ensuring stable revenue.  
+- ⚠️ **New customer acquisition collapsed** after 2014, posing long-term growth risk.  
+- 💡 Profitability varies by category and product → opportunities to optimize product mix.  
+- 🌍 Revenue concentration in a handful of states/regions increases exposure to risk.  
+- 📌 Overall, the project provides **actionable insights** for:  
   - Strengthening acquisition strategies.  
   - Leveraging high-margin products.  
   - Balancing retention vs. growth.  
-  - Diversifying across regions to reduce risk.  
+  - Reducing dependency on key states and regions.  
 
 ---
 
 ## 🔎 How to Access  
-- **Google Sheets Dashboard**: [View Here](https://docs.google.com/spreadsheets/d/1i6_KInlW9nT4XAmB_qeiTaU5gzkqpAAWsLWQYmKDfNc/edit?usp=sharing) 
-- **Dashboard + Insight + Analysis Sheets**: included in this repository 
+- **Excel File**: `SuperStore_Sales.xlsx` (included in this repository)  
+- **Detailed Analysis PDFs**:  
+  - [Dashboard](SuperStore_Sales%20-%20Dashboard.pdf)  
+  - [Insight](SuperStore_Sales%20-%20Insight.pdf)  
+  - [Yearly Tracking](SuperStore_Sales%20-%20Yearly_Tracking.pdf)  
+  - [Monthly Cohort Analysis](SuperStore_Sales%20-%20MonthlyCohort_Analysis.pdf)  
+
+---
